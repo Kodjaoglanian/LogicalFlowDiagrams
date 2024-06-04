@@ -1,4 +1,4 @@
-# 🛒 Supermercado Projeto
+# 🛒 LogicalFlowDiagrams
 
 Este projeto consiste em uma coleção de diagramas XML que representam diferentes funcionalidades para um sistema de supermercado, cada um abordando uma parte específica do sistema.
 
